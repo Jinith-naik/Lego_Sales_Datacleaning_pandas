@@ -27,4 +27,6 @@ Explore the notebook and gain insights from the findings, visualizations, and da
 
 Data_sets used in this project can be read directly by this.
 1.https://raw.githubusercontent.com/KeithGalli/lego-analysis/master/datasets/lego_sets.csv
+
+
 2.https://raw.githubusercontent.com/KeithGalli/lego-analysis/master/datasets/parent_themes.csv
